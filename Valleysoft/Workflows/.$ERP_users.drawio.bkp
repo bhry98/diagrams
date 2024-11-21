@@ -1,0 +1,94 @@
+<mxfile host="Electron" modified="2024-09-30T09:30:03.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.5.3 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="s9HnHe9oFZIng5WDoyEF" version="24.5.3" type="device">
+  <diagram name="Page-1" id="883aSJwAEPgV90TFdiw_">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xrFIEtf_1X3aFl5OK7Y_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xrFIEtf_1X3aFl5OK7Y_-3" target="xrFIEtf_1X3aFl5OK7Y_-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="95" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xrFIEtf_1X3aFl5OK7Y_-8" value="apps.valleysoft-eg.com&lt;br&gt;41.33.228.166" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="xrFIEtf_1X3aFl5OK7Y_-7">
+          <mxGeometry x="-0.1406" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xrFIEtf_1X3aFl5OK7Y_-3" value="Valleysoft User" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="70" y="70" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xrFIEtf_1X3aFl5OK7Y_-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=1;" edge="1" parent="1" source="xrFIEtf_1X3aFl5OK7Y_-11" target="xrFIEtf_1X3aFl5OK7Y_-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrFIEtf_1X3aFl5OK7Y_-14" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="xrFIEtf_1X3aFl5OK7Y_-13">
+          <mxGeometry x="-0.1086" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xrFIEtf_1X3aFl5OK7Y_-11" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;if &lt;br&gt;employee user &lt;br&gt;has session open&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="270" y="45" width="135" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="xrFIEtf_1X3aFl5OK7Y_-12" value="redirect to&lt;br&gt;my apps page&amp;nbsp;&lt;br&gt;me.apps.valleysoft-eg.com&amp;nbsp;" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="492.5" y="65" width="167.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xrFIEtf_1X3aFl5OK7Y_-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xrFIEtf_1X3aFl5OK7Y_-15" target="xrFIEtf_1X3aFl5OK7Y_-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xrFIEtf_1X3aFl5OK7Y_-20" value="support.valleysoft-eg.com&lt;br&gt;customer.valleysoft-eg.com&lt;br&gt;41.33.228.166" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="xrFIEtf_1X3aFl5OK7Y_-19">
+          <mxGeometry x="-0.1934" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xrFIEtf_1X3aFl5OK7Y_-15" value="Customer User" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="150" y="310" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xrFIEtf_1X3aFl5OK7Y_-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=1;" edge="1" parent="1" source="xrFIEtf_1X3aFl5OK7Y_-21" target="xrFIEtf_1X3aFl5OK7Y_-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrFIEtf_1X3aFl5OK7Y_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=1;" edge="1" parent="1" source="xrFIEtf_1X3aFl5OK7Y_-21" target="xrFIEtf_1X3aFl5OK7Y_-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrFIEtf_1X3aFl5OK7Y_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=1;" edge="1" parent="1" source="xrFIEtf_1X3aFl5OK7Y_-21" target="xrFIEtf_1X3aFl5OK7Y_-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrFIEtf_1X3aFl5OK7Y_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=1;" edge="1" parent="1" source="xrFIEtf_1X3aFl5OK7Y_-21" target="xrFIEtf_1X3aFl5OK7Y_-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrFIEtf_1X3aFl5OK7Y_-21" value="10.5.0.20" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="450" y="350" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xrFIEtf_1X3aFl5OK7Y_-22" value="DATABASE&lt;br&gt;10.5.0.21&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="555.75" y="250" width="41" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xrFIEtf_1X3aFl5OK7Y_-24" value="FTP&lt;br&gt;10.5.0.22" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.ftp_server;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="684.25" y="335.78999999999996" width="47" height="64.21" as="geometry" />
+        </mxCell>
+        <mxCell id="xrFIEtf_1X3aFl5OK7Y_-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=1;" edge="1" parent="1" source="xrFIEtf_1X3aFl5OK7Y_-26" target="xrFIEtf_1X3aFl5OK7Y_-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xrFIEtf_1X3aFl5OK7Y_-28" value="apps.valleysoft-eg.com&lt;br&gt;*.apps.valleysoft-eg.com&lt;br&gt;41.33.228.166" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" connectable="0" parent="xrFIEtf_1X3aFl5OK7Y_-27">
+          <mxGeometry x="-0.5628" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xrFIEtf_1X3aFl5OK7Y_-26" value="Valleysoft User" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="150" y="420" width="47.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xrFIEtf_1X3aFl5OK7Y_-29" value="Access Door&lt;br&gt;10.3.0.10" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.access_card;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="680" y="490" width="55.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="xrFIEtf_1X3aFl5OK7Y_-31" value="Access Door&lt;br&gt;10.3.0.11" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.access_card;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="590" y="504.21" width="55.5" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="xrFIEtf_1X3aFl5OK7Y_-33" value="LDAP&amp;nbsp;&lt;br&gt;10.6.0.20" style="points=[[0.5,0,0],[0.765,0.48,0],[0.99,0.98,0],[0.5,1,0],[0.01,0.98,0],[0.235,0.48,0]];verticalLabelPosition=bottom;sketch=0;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.ldap;fillColor=#005073;strokeColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="490" y="529" width="50" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="xrFIEtf_1X3aFl5OK7Y_-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;flowAnimation=1;" edge="1" parent="1" source="xrFIEtf_1X3aFl5OK7Y_-21" target="xrFIEtf_1X3aFl5OK7Y_-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
